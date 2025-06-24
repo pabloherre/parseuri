@@ -1,20 +1,20 @@
 {
-  "name": "parseuri",
+  "name": "@pabloherre/parseuri",
   "version": "0.0.7",
   "description": "Method that parses a URI and returns an array of its components",
   "repository": {
     "type": "git",
-    "url": "https://github.com/get/parseuri.git"
+    "url": "git+https://github.com/pabloherre/parseuri.git"
   },
-  "homepage": "https://github.com/get/parseuri",
+  "homepage": "https://github.com/pabloherre/parseuri",
   "scripts": {
     "test": "make test"
   },
   "devDependencies": {
-    "better-assert": "~1.0.0",
+    "better-assert": "~1.0.2",
     "mocha": "1.17.1",
     "expect.js": "^0.3.1"
   },
-  "author": "Gal Koren",
+  "author": "Pablo A. Herrera",
   "license": "MIT"
 }
