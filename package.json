@@ -1,6 +1,6 @@
 {
   "name": "@pabloherre/parseuri",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Method that parses a URI and returns an array of its components",
   "repository": {
     "type": "git",
