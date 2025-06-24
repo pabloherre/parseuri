@@ -1,6 +1,6 @@
 {
   "name": "@pabloherre/parseuri",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Method that parses a URI and returns an array of its components",
   "repository": {
     "type": "git",
@@ -10,11 +10,7 @@
   "scripts": {
     "test": "make test"
   },
-  "devDependencies": {
-    "better-assert": "~1.0.2",
-    "mocha": "1.17.1",
-    "expect.js": "^0.3.1"
-  },
   "author": "Pablo A. Herrera",
+  "keywords": ["parse", "uri", "url", "components"],
   "license": "MIT"
 }
